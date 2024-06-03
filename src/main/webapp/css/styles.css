@@ -1,0 +1,16 @@
+.black-header {
+    background-color: #000; /* Màu đen */
+    padding: 10px; /* Thêm padding cho header */
+}
+
+.black-header input[type="search"] {
+    color: #fff; /* Màu chữ trắng */
+    background-color: transparent; /* Nền trong suốt */
+    border: none; /* Loại bỏ viền */
+    outline: none; /* Loại bỏ đường viền khi focus */
+    width: 100%; /* Chiều rộng 100% */
+}
+.larger-text {
+    font-size: 1000; /* Điều chỉnh giá trị theo nhu cầu của bạn */
+    font-weight: bold; /* Có thể thêm các thuộc tính khác */
+}
